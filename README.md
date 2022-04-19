@@ -1,2 +1,0 @@
-# ws
-my blog website
